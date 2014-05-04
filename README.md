@@ -1,3 +1,5 @@
+Autor: @zombiesdev
+
 frontend-profesional
 ====================
 
